@@ -1,3 +1,3 @@
-# chop
+# binary chop
 
-A description of this package.
+Simple code test.
